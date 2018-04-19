@@ -1,3 +1,4 @@
+## Useful commands
 
 - List your current jobs:
 
@@ -10,3 +11,8 @@
 - Kill a job:
 
   `$ scancel <ID>`
+
+
+## Scripts to start interactive jobs on Caldera/Cheyenne
+
+`$ execca -a <project>` -> Run on a caldera node 
