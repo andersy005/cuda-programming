@@ -14,4 +14,4 @@ mod = SourceModule("""
 func = mod.get_function("kernel")
 
 
-func(block=(1, 1, 1))
+func(block=(4, 1, 1))
