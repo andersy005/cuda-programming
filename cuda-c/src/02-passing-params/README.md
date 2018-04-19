@@ -12,6 +12,8 @@ To run the profiler:
 
 `$ nvprof --unified-memory-profiling off ./passing_params`
 
+[![asciicast](https://asciinema.org/a/mIFzam2aaqraUV6NxtWH7zpPc.png)](https://asciinema.org/a/mIFzam2aaqraUV6NxtWH7zpPc)
+
 # Summary
 
 - We can pass parameters to a kernel as we would with any C function.
