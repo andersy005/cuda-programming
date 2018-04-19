@@ -8,6 +8,9 @@ To run the compile program:
 
 `$ ./02-passing-params`
 
+To run the profiler:
+
+`$ nvprof --unified-memory-profiling off ./passing_params`
 
 # Summary
 
