@@ -108,3 +108,5 @@ ENV/
 .mypy_cache/
 .pytest_cache/
 .vscode/
+notes/CodeSamples/
+notes/Solutions/
